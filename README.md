@@ -135,7 +135,7 @@ jupyter notebook notebooks/Global_Population_Analysis.ipynb
 
 ## 📬 Contact
 
-**Vishesh Bhat**  
+**Vidushi Kaul**  
 [LinkedIn](#) · [Portfolio](#) · [Email](#)
 
 ---
