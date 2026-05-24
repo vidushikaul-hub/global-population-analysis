@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outputs (generated — do not commit large files)
+outputs/*.xlsx
+outputs/*.csv
+
+# Large data files (use Git LFS or link externally)
+# data/*.xlsx  ← uncomment if dataset is >100MB
